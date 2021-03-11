@@ -1,4 +1,4 @@
-## [Haxe](https://haxe.org/)
+## [Haxe](https://haxe.org/) projects
 
 Game made with Haxe and [HaxeFlixel](https://haxeflixel.com/):
 
@@ -12,7 +12,7 @@ Haxe libraries:
 
 - https://github.com/fal-works/fal-haxe-libraries
 
-## [TypeScript](https://www.typescriptlang.org/)
+## [TypeScript](https://www.typescriptlang.org/) projects
 
 Sketches made with [p5.js](https://p5js.org/) (old ones are with [Processing](https://processing.org/)):
 
@@ -29,9 +29,10 @@ NPM libraries for Node.js:
 
 Browser-based tool:
 
-- https://github.com/fal-works/image-grid-generator
+- https://github.com/fal-works/image-grid-generator / https://image-grid-generator.com/
 
 Other projects with p5.js:
 
+- https://fal-works.github.io/p5js-templates/ template repositories for p5.js sketches
 - https://fal-works.github.io/make-games-with-p5js/ Workshop course of p5.js 
 - https://github.com/fal-works/far-east-src Minigame on browser
